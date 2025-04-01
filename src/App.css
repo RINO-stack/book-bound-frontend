@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* flowbite */
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+header , nav {
+    z-index: 100001 !important;
+}

@@ -1,0 +1,57 @@
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+  .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .banner .swiper-slide:nth-child(1n) {
+     background-image: url('https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689626520i/192566704._SX300_.jpg');
+     background-size: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155._SX300_.jpg');
+    background-size: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(3n) {
+    background-image: url('https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699311050l/201242757._SY475_.jpg');
+    background-size: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(4n) {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590._SX300_.jpg');
+    background-size: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640967740i/59986018._SX300_.jpg');
+    background-size: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(6n) {
+    background-image: url("https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718997232i/212806636._SX300_.jpg");
+    background-size: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(7n) {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1719586016i/212808316._SX300_.jpg');
+    background-size: cover;
+  }
+  
+  .banner .swiper-slide:nth-child(8n) {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681482426i/108518990.jpg');
+    background-size: cover;
+  }
+  
+  
+  
